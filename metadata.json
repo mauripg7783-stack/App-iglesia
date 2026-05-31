@@ -1,0 +1,6 @@
+{
+  "name": "Sacred Grove",
+  "description": "Santuario de reflexión espiritual, oraciones comunitarias y liderazgo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
